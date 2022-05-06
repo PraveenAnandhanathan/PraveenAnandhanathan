@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PraveenAnandhanathan)
+![Github stats](https://github-readme-stats.vercel.app/api?username=PraveenAnandhanathan&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenAnandhanathan&hide=css,scss,html&theme=tokyonight)
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PraveenAnandhanathan&repo=email_encryption_tamilcipher)

@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PraveenAnandhanathan)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PraveenAnandhanathan&repo=email_encryption_tamilcipher)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PraveenAnandhanathan&repo=machine_health_classification)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PraveenAnandhanathan&repo=edu_tour)
+
+![counter](https://enovk8ftoyl6a8o.m.pipedream.net)
+
+
+

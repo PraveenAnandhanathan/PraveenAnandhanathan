@@ -10,7 +10,7 @@
 - 🙌 Interested in Machine Learning, UX/UI Designing, Web Developing and Big Data Analytics
 - 🐱‍🏍 Also I’m a PC Builder and Troubleshooter
 - 👯 Looking to collaborate on any innovative project ideas
-- 📫 How to reach me: [https://prave-anand.netlify.app/](https://prave-anand.netlify.app/)
+- 📫 Reach me: [https://prave-anand.netlify.app/](https://prave-anand.netlify.app/)
 
 <p align="center">
     <img class="img" src="https://enovk8ftoyl6a8o.m.pipedream.net" />

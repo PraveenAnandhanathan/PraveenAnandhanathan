@@ -18,7 +18,7 @@
 
 
 
-
+<!--
 
 <h1 align="center" font>My Stats 🌟</h1>
 
@@ -38,5 +38,5 @@
     <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenAnandhanathan&repo=edu_tour" />
 </div>
 
-
+-->
 
